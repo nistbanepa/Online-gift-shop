@@ -1,2 +1,12 @@
 # Group6
-
+Hello everyone,
+Well-Come to our website.You can do online gifts shopping for any occasions that might happen around you.As a gift shop or souvenir shop is a store primarily selling souvenirs, memorable, and other items relating to a particular topic or theme. The items we  often sold include coffee mugs, self design t-shirts, postcards, flowers,handmade collections and other souvenirs. Gift shops are normally found in areas visited by many tourists.As,we know there are many gifts store near by us but we have come to served more new items to your door easily by  just clicking the items you love.
+We have categorized our website into further three pages so that there will be no trouble finding your favroute items.
+At first page we have make our main page where we have include our logo, menu bar and our profile.Below the menu bar we have categorized the items such as realated to any ocassion,flower,cake and some special gifts.For the further details we have our contacts at the bottom of our main page and also have link our facebook page and insta page there.After the right click we can go to our next page where we have include all items just we have to click to the paticular item then after that the name of the items , price,colour have included,if you like the product and you want to buy then we have included 'Add to Cart' sytem after clicking that your item will be cart in our order bar.If you want more description about the certain items then below that items short description id added.In our second page you also can find the awesome deals such as new arrivals is shown and the items having the huge discount as well.In our third page we have our form where the name of the customer's first name ,last name  ,phone number and additional number,customer's location and at last the paying method we have quite many types of paying method such as cash on delivery,esewa,khalti.In the last we also have include the gift hampers for the regular customer.And if you have some problem regrading our website then you can click on the help bottom and if you like our items then you can give review on those also.
+And the helping hands for this awesome website design are:-Sujata KC (Main page of our website)
+                                                           Ujwol Timlasina(Middle page)
+                                                           Supriya Makaju(3rd page of our website)
+                                                          
+                                                          
+                                                          
+                                                          THANK YOU !!!
