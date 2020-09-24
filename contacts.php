@@ -16,8 +16,8 @@
         <p>Location: Banepa,Chardobato</p>
     </h2>
     <form>
-        <h3 style="margin: 50px;">Feedback</h3>
-        <input class="btn-contact" type="text" name="box" placeholder="Type your review here"><br>
+        <label for="feedback">Feedback:</label>
+        <textarea class="btn-contact" id="feedback" name="feedback" placeholder="Type your review here" rows="4" cols="50"></textarea><br>
         <button type="submit" style="margin: 0px 25%;">Submit</button>
     </form>
 </body>
