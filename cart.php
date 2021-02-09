@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <form class="btn-cart">
+    <form class="btn-cart" action="homepage.php">
         <label for="name">Name:</label>
         <input type="text" name="name" id="name" required><br><br>
         <label for="age">Age:</label>

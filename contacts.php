@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contacts</title>
     <link rel="stylesheet" href="/Online-Store/css/styles.css">
+    
 </head>
 
 <body>
@@ -15,13 +16,15 @@
         <p>Email: online-store@gmail.com</p>
         <p>Location: Banepa,Chardobato</p>
     </h2>
-    <form>
+    <form action="homepage.php">
         <em>
             <h3><label for="feedback">Feedback:</label></h3>
         </em>
         <textarea class="btn-contact" id="feedback" name="feedback" placeholder="Type your review here" rows="4" cols="50"></textarea><br>
         <button type="submit" style="margin: 0px 25%;">Submit</button>
-    </form>
+    </form><br><hr>
+
+    <a href="homepage.php" style="color:blue;"><b>Back to home page!!</b></a>
 </body>
 
 </html>

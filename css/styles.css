@@ -42,6 +42,12 @@ a{
     padding: 0px 0px 0px 95px;
     margin: -180px 0px 0px -27px;   
 }
+.fix{  
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
 .btn{
     padding: 6px 3px 3px 3px;
     width: 80%;

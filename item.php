@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,13 +7,11 @@
     <link rel="stylesheet" href="/Online-Store/css/styles.css">
     <style>
         a {
-            color: black;
+            color: blue;
         }
     </style>
 </head>
-
 <body>
-
     <form action="" class="btn-search">
         <input type="text" name="search" placeholder="Search...">
         <button type="submit">GO</button>
@@ -125,7 +122,7 @@
         <td><b class="pics"></b></td>
         <button type="submit"><a href="cart.php"> Add to Cart</a></button>
     </tr><br><br>
-
+        <a href="homepage.php">Back to home page!!</a>
+<br><br><br>
 </body>
-
 </html>
